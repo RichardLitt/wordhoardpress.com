@@ -4,12 +4,11 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: Word Hoard Press
+title: "Word Hoard Press"
 subtitle: "A Literary Press for Ancient Poems by Modern Writers"
-email: richard@wordhoardpress.com
-name:  Richard Littauer
-description: >
-  A Literary Press for Ancient Poems by Modern Writers
+email: "richard@wordhoardpress.com"
+name:  "Richard Littauer"
+description: "A Literary Press for Ancient Poems by Modern Writers"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://wordhoardpress.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"

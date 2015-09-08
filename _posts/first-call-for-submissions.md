@@ -48,7 +48,7 @@ Simultaneous submissions are ok, but please let us know if your work is accepted
 
 #### Rights
 
-If we accept your work, Wyvern Lit acquires First Serial Rights and Nonexclusive Archival Electronic Rights to showcase your work indefinitely. All rights revert to author at publication, but it would be great if you could credit us as the first publisher if your work ends up getting published elsewhere. More on rights here.
+If we accept your work, Word Hoard Press acquires First Serial Rights and Nonexclusive Archival Electronic Rights to showcase your work indefinitely. All rights revert to author at publication, but it would be great if you could credit us as the first publisher if your work ends up getting published elsewhere. More on rights here.
 
 ## Get involved!
 
