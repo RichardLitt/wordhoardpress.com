@@ -20,7 +20,7 @@
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{{ site.title }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="{{ "assets/twitter_360.png"| prepend: site.baseurl }}" />
+  <meta property="og:image" content="{{ "assets/twitter_360.png"| prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="360" />
   <meta property="og:image:height" content="360" />
@@ -29,8 +29,8 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ site.title }}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{{ "assets/twitter_360.png" | prepend: site.baseurl }}">
-  <meta name="twitter:url" content="{{ site.url }}">
+  <meta name="twitter:image" content="{{ "assets/twitter_360.png" | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="twitter:url" content="{{ site.url }}">  
 
   <!-- Open Source Protocol -->
   <link rel="profile" href="http://osprotocol.com" />
