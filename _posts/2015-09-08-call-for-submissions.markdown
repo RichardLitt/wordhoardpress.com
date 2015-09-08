@@ -36,17 +36,19 @@ We will accept submissions that are translations of any text from before 1500. P
 
 Text limit: 5000 words.
 
-## Simultaneous Submissions
-
-Simultaneous submissions are ok, but please let us know if your work is accepted elsewhere. We do not accept previously published material. If you have already submitted for an issue, please wait until the following issue's reading period before submitting again. We can't pay at this time, except with a promise to promote your work.
-
 ## How to submit
 
 Email a copy of your text, along with a translation, to: <a href="mailto:richard@wordhoardpress.com">richard@wordhoardpress.com</a>.
 
 For a fee, you can also select the option of getting an expedited response within one week. Please add a comment about which submission was yours, and register your payment <a href="https://plasso.co/s/dN3qHN8DIa">here</a>. Thank you!
 
-Rights: If we accept your work, Wyvern Lit acquires First Serial Rights and Nonexclusive Archival Electronic Rights to showcase your work indefinitely. All rights revert to author at publication, but it would be great if you could credit us as the first publisher if your work ends up getting published elsewhere. More on rights here.
+#### Simultaneous Submissions
+
+Simultaneous submissions are ok, but please let us know if your work is accepted elsewhere. We do not accept previously published material. If you have already submitted for an issue, please wait until the following issue's reading period before submitting again. We can't pay at this time, except with a promise to promote your work.
+
+#### Rights
+
+If we accept your work, Wyvern Lit acquires First Serial Rights and Nonexclusive Archival Electronic Rights to showcase your work indefinitely. All rights revert to author at publication, but it would be great if you could credit us as the first publisher if your work ends up getting published elsewhere. More on rights here.
 
 ## Get involved!
 
