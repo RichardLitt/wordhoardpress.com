@@ -35,7 +35,7 @@ paginate_path: "/page:num/"
 disqus_shortname: wordhoardpress
 
 # Google analytics
-# ga_tracking_id: "UA-4124866-33"
+ga_tracking_id: "UA-4124866-33"
 
 # Category descriptions (for archive pages)
 # descriptions:
