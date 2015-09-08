@@ -1,14 +1,8 @@
 ---
-layout: post
-title:  "Eala: Call For Submissions"
-date:   2015-09-08 14:00:00
-author: Richard Littauer
-categories: Announcements
+layout: page
+title:  Eala
+permalink: /eala/
 ---
-
-Welcome to Word Hoard Press! We are a new literary press interested in publishing poetry written in Old English and other extinct Germanic languages by modern writers.
-
-Our journal, **Eala**, is **OPEN** for submissions.
 
 Eala publishes on a rolling basis and is currently online-only. Based on the number of accepted submissions, we hope to eventually publish a hard copy edition of our work.
 
@@ -26,7 +20,7 @@ In general, we will only consider texts that conform to old Germanic poetic stan
 
 Long form prose is also accepted.
 
-Free verse or rhymed, Romance-influenced poetry will also be accepted, but are not especially encouraged.
+Free verse or rhymed, Romance-influenced poetry will also be accepted based on their own individual merit, but are not especially encouraged.
 
 Text limit: 500 lines, or 2000 words.
 
