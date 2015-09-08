@@ -22,7 +22,8 @@ Long form prose is also accepted.
 
 Free verse or rhymed, Romance-influenced poetry will also be accepted based on their own individual merit, but are not especially encouraged.
 
-Text limit: 500 lines, or 2000 words.
+Poetry text limit: 500 lines.
+Prose text limit: 2000 words.
 
 ### Translations
 
