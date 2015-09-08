@@ -8,9 +8,8 @@ title: Word Hoard Press
 subtitle: "A Literary Press for Ancient Poems by Modern Writers"
 email: richard@wordhoardpress.com
 name:  Richard Littauer
-description: > 
-  A Literary Press for Ancient Poems by Modern Writers<br />
-  Logo by Ryan Beck from <a href='http://thenounproject.com'>Noun Project</a>.
+description: >
+  A Literary Press for Ancient Poems by Modern Writers
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://wordhoardpress.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
@@ -32,7 +31,7 @@ paginate_path: "/page:num/"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: wordhoardpress
+# disqus_shortname: wordhoardpress
 
 # Google analytics
 ga_tracking_id: "UA-4124866-33"
@@ -62,8 +61,9 @@ ga_tracking_id: "UA-4124866-33"
 #     share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to not allow sharing)
 #     share_title: ?text=                   # Title parameter for sharing URL
 #     share_link: "&amp;url="               # Link parameter for sharing URL
+#     
 social:
-  - name: WordHoardPress
+  - name: Twitter
     icon: twitter
     username: "@WordHoardPress"
     url: https://twitter.com/WordHoardPress

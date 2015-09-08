@@ -6,12 +6,12 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}assets/twitter_360.png" title="Word Hoard Press" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Word Hoard Press is the only literary publisher dedicated towards publishing poetry written in Old English and other extinct Germanic languages by modern writers. 
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+<hr />
+
+### Credits
+
+This website is hosted by [GitHub](https://github.com). The website theme is [centrarium](https://github.com/bencentra/centrarium), by [bencentra](http://bencentra.com). The longboat logo is by Ryan Beck from <a href='http://thenounproject.com'>The Noun Project</a>, and the background image of a misty forest is by [Jeremy Hiebert on Flickr](https://www.flickr.com/photos/jeremyhiebert/8139594990).
