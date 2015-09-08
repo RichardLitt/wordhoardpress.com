@@ -16,8 +16,8 @@ cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
 # Metadata
-twitter_logo: "assets/twitter_360.png"
-fb_logo: "assets/twitter_360.png"
+# twitter_logo: "assets/twitter_360.png"
+# fb_logo: "assets/twitter_360.png"
 fb_image_type: "image/png"
 fb_logo_width: 360
 fb_logo_height: 360
