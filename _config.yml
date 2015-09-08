@@ -63,14 +63,14 @@ ga_tracking_id: "UA-4124866-33"
 #     share_title: ?text=                   # Title parameter for sharing URL
 #     share_link: "&amp;url="               # Link parameter for sharing URL
 social:
-  # - name: Twitter
-  #   icon: twitter
-  #   username: "@TheBenCentra"
-  #   url: https://twitter.com/TheBenCentra
-  #   desc: Follow me on Twitter
-  #   share_url: http://twitter.com/share
-  #   share_title: ?text=
-  #   share_link: "&amp;url="
+  - name: WordHoardPress
+    icon: twitter
+    username: "@WordHoardPress"
+    url: https://twitter.com/WordHoardPress
+    desc: Follow us on Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
   # - name: Facebook
   #   icon: facebook
