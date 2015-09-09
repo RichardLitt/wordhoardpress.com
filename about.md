@@ -58,6 +58,14 @@ Correct. There's no real outlet for verse in the Germanic alliterative tradition
 
 <hr />
 
+## Get involved!
+
+If you would like to be a reader or a language consultant for Word Hoard Press, please send an email to <a href="richard@wordhoardpress.com">Richard.</a> We are always looking for more readers, and especially consultants for obscure, extinct languages. Get in touch!
+
+Word Hoard Press is a volunteer project. If you would like to support Word Hoard Press, please feel free to leave some money in <a href="https://plasso.co/s/dN3qHN8DIa">the tip jar</a> - it would be very appreciated.
+
+<hr />
+
 ### Credits
 
 This website is hosted by [GitHub](https://github.com). The website theme is [centrarium](https://github.com/bencentra/centrarium), by [bencentra](http://bencentra.com). Any similarity in the name to WordPress.org are completely unintended. The longboat logo is by Ryan Beck from <a href='http://thenounproject.com'>The Noun Project</a>, and the background image of a misty forest is by [Jeremy Hiebert on Flickr](https://www.flickr.com/photos/jeremyhiebert/8139594990). 

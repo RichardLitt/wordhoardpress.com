@@ -45,10 +45,6 @@ Simultaneous submissions are ok, but please let us know if your work is accepted
 
 If we accept your work, Word Hoard Press acquires First Serial Rights and Nonexclusive Archival Electronic Rights to showcase your work indefinitely. All rights revert to author at publication, but it would be great if you could credit us as the first publisher if your work ends up getting published elsewhere. More on rights here.
 
-## Get involved!
-
-If you would like to be a reader or a language consultant for Word Hoard Press, please send an email to <a href="richard@wordhoardpress.com">Richard.</a> We are always looking for more readers, and especially consultants for obscure, extinct languages. Get in touch!
-
-Word Hoard Press is a volunteer project. If you would like to support Word Hoard Press, please feel free to leave some money in <a href="https://plasso.co/s/dN3qHN8DIa">the tip jar</a> - it would be very appreciated.
+#### Contact
 
 We're very excited to read your work. If you've got any questions, give us a shout via email or on Twitter at <a href='https://twitter.com/wordhoardpress'>@WordHoardPress</a>.
