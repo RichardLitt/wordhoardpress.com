@@ -26,15 +26,23 @@ Richard Littauer is Word Hoard Press's Founding Editor & Editor-in-Chief. He wri
 
 #### How will you know if the submissions are good?
 
-Long hours with a dictionary and grammars. Hopefully, some other experts in Old Germanic languages will be keen to help out. This is, ultimately, for love of the craft.
+Long hours with a dictionary and grammars. Hopefully, some other experts in Old Germanic languages will be keen to help out, and we will do our best to seek out trained language consultants. This is, ultimately, for love of the craft.
 
-#### Do all of the editors read Old English for fun?
+#### Why 'Eala'? Why 'Word Hoard'?
 
-Yes.
+_Eala_ is the Old English word for 'Hello.' Its most famous usage was in the poem _Cynewulf_, mostly because of JRR Tolkien's mention of it in his letters.
+
+> *Eala Earendel engla beorhtast*  
+> *Ofer middangeard monnum sended*  
+>  
+> Hail Earendel brightest of angels  
+> Over middle-earth sent unto men  
+
+_Word-hoard_ is from the Old English kenning for lexicon, _wordhord_. Beowulf's first words in the epic poem are prefaced _wordhord onléac_, 'he unlocked his word hoard'.
 
 #### I am a native Icelandic or Norse speaker. Can I submit some poems I wrote?
 
-We'd prefer if you submitted only texts which are written in languages that don't exist at the moment. If you're writing in Old Norse or Old Icelandic (not that they are that different!), feel free to submit those.
+We'd prefer if you submitted only texts which are written in languages that don't exist at the moment, or in the least that you do not know from birth. If you're writing in Old Norse or Old Icelandic (not that they are that different!), feel free to submit those.
 
 #### Will you send me a printed copy?
 
@@ -48,7 +56,8 @@ I hope to do this too.
 
 Correct. There's no real outlet for verse in the Germanic alliterative tradition that I could find, so that's what this is for. Your end-of-line rhymes and iambic pentameter are welcome elsewhere, I am sure.
 
+<hr />
 
 ### Credits
 
-This website is hosted by [GitHub](https://github.com). The website theme is [centrarium](https://github.com/bencentra/centrarium), by [bencentra](http://bencentra.com). The longboat logo is by Ryan Beck from <a href='http://thenounproject.com'>The Noun Project</a>, and the background image of a misty forest is by [Jeremy Hiebert on Flickr](https://www.flickr.com/photos/jeremyhiebert/8139594990).
+This website is hosted by [GitHub](https://github.com). The website theme is [centrarium](https://github.com/bencentra/centrarium), by [bencentra](http://bencentra.com). Any similarity in the name to WordPress.org are completely unintended. The longboat logo is by Ryan Beck from <a href='http://thenounproject.com'>The Noun Project</a>, and the background image of a misty forest is by [Jeremy Hiebert on Flickr](https://www.flickr.com/photos/jeremyhiebert/8139594990). 
