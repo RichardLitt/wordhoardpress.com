@@ -51,4 +51,4 @@ If you would like to be a reader or a language consultant for Word Hoard Press, 
 
 Word Hoard Press is a volunteer project. If you would like to support Word Hoard Press, please feel free to leave some money in <a href="https://plasso.co/s/dN3qHN8DIa">the tip jar</a> - it would be very appreciated.
 
-We're very excited to read your work. If you've got any questions, give us a shout via email or on Twitter at @WordHoardPress.
+We're very excited to read your work. If you've got any questions, give us a shout via email or on Twitter at <a href='https://twitter.com/wordhoardpress'>@WordHoardPress</a>.
