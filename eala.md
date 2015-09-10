@@ -27,7 +27,7 @@ Prose text limit: 2000 words.
 
 ### Translations
 
-We will accept submissions that are translations of any text from before 1500. Please also include the original text.
+We will accept submissions that are translations of any text from before 1500, or translations of modern texts (within the public domain) into Old English . Please also include the original text.
 
 Text limit: 5000 words.
 
