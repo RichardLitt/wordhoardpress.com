@@ -8,7 +8,7 @@ Eala publishes on a rolling basis and is currently online-only. Based on the num
 
 ## What We're Looking For
 
-We accept submissions that are written in any Germanic language spoken before or during the Middle Ages. While our primary focus is on Old English, we also will accept anything written in Old English, Middle English, Old Scots, Old Norse, Old and Middle Icelandic, Old Danish, Old Saxon, Old Swedish, Old Gutnish, and so on. We do not accept submissions from constructed languages, or submissions with created words.
+We accept submissions that are written in any Germanic language spoken before or during the Middle Ages. While our primary focus is on Old English, we also will accept anything written in Old English, Middle English, Old Scots, Old Norse, Old and Middle Icelandic, Old Danish, Old Saxon, Old Swedish, Old Gutnish, Gothic, and so on. We do not accept submissions from constructed languages, or submissions with created words.
 
 Any genre of writing is accepted, as long as it conforms to our standards below.
 
