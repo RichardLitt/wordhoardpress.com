@@ -52,6 +52,10 @@ If we get enough submissions, this is my ultimate goal, yes.
 
 I hope to do this too.
 
+#### Do you have any resources I could use to help me write?
+
+I don't, but there are a host of other blogs online that may help. Unfortunately, most of them are old, from various institutions, and not updated. They're not much better than going back to the original texts and learning there. Good luck.
+
 #### So... you're not interested in my rhyming couplets?
 
 Correct. There's no real outlet for verse in the Germanic alliterative tradition that I could find, so that's what this is for. Your end-of-line rhymes and iambic pentameter are welcome elsewhere, I am sure.
