@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Word Hoard Press"
 subtitle: "A Literary Press for Ancient Poems by Modern Writers"
-email: "richard@wordhoardpress.com"
+email: "richard.littauer+wordhoardpress@gmail.com"
 name:  "Richard Littauer"
 description: "A Literary Press for Ancient Poems by Modern Writers"
 baseurl: "/" # the subpath of your site, e.g. /blog/

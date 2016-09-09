@@ -64,7 +64,7 @@ Correct. There's no real outlet for verse in the Germanic alliterative tradition
 
 ## Get involved!
 
-If you would like to be a reader or a language consultant for Word Hoard Press, please send an email to <a href="richard@wordhoardpress.com">Richard.</a> We are always looking for more readers, and especially consultants for obscure, extinct languages. Get in touch!
+If you would like to be a reader or a language consultant for Word Hoard Press, please send an email to <a href="richard.littauer+wordhoardpress@gmail.com">Richard.</a> We are always looking for more readers, and especially consultants for obscure, extinct languages. Get in touch!
 
 Word Hoard Press is a volunteer project. If you would like to support Word Hoard Press, please feel free to leave some money in <a href="https://plasso.co/s/dN3qHN8DIa">the tip jar</a> - it would be very appreciated.
 

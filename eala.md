@@ -33,7 +33,7 @@ Text limit: 5000 words.
 
 ## How to submit
 
-Email a copy of your text, along with a translation, to: <a href="mailto:submissions@wordhoardpress.com">submissions@wordhoardpress.com</a>.
+Email a copy of your text, along with a translation, to: <a href="mailto:richard.littauer+whpsubmissions@gmail.com">richard.littauer+whpsubmissions@gmail.com</a>.
 
 For a fee, you can also select the option of getting an expedited response within one week. Please add a comment about which submission was yours, and register your payment <a href="https://plasso.co/s/dN3qHN8DIa">here</a>. Thank you!
 
