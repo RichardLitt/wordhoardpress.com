@@ -10,7 +10,7 @@ email: "richard@burntfen.com"
 name:  "Richard Littauer"
 description: "A Literary Press for Ancient Poems by Modern Writers"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://wordhoardpress.com" # the base hostname & protocol for your site
+url: "https://wordhoardpress.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 exclude: [".rvmrc", ".rbenv-version", "README.md", "theme-readme.md", "Rakefile", "changelog.md", "node_modules", "src"]
@@ -75,6 +75,6 @@ social:
     username: "@WordHoardPress"
     url: https://twitter.com/WordHoardPress
     desc: Follow us on Twitter
-    share_url: http://twitter.com/share
+    share_url: https://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
