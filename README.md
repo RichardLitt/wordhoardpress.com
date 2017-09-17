@@ -1,6 +1,6 @@
 # Word Hoard Press
 
-> Word Hoard Press website [http://wordhoardpress.com]
+> Word Hoard Press website http://wordhoardpress.com
 
 ## Contribute
 
