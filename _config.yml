@@ -23,8 +23,8 @@ fb_logo_height: 360
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
+# paginate: 5
+# paginate_path: "/page:num/"
 
 # # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 # jekyll-archives:
