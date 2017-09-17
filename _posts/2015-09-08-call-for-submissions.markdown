@@ -14,7 +14,7 @@ Any genre of writing is accepted, as long as it conforms to our standards below.
 
 ### Original Texts
 
-We encourage and are especially looking for any original texts written in any of the languages above by you, the modern day author. We do no accept previously extant texts.
+We encourage and are especially looking for any original texts written in any of the languages above by you, the modern day author. We do not accept previously extant texts.
 
 In general, we will only consider texts that conform to old Germanic poetic standards. This means heavy use of alliterative verse, with inclusion of kennings, caesura, and so on. Please indicate in what style your submission is written; for instance, as classic metrical verse, fornyrðislag, ljóðaháttr, or dróttkvætt. If you are using a rare form, a small essay about the type of form used would be permitted and may be published alongside the original work (we'll work with you on that).
 
