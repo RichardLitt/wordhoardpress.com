@@ -11,3 +11,12 @@
   "neat/neat",
   "layout"
 ;
+
+.editor-image {
+  max-width:200px;
+  border-radius:50%;
+}
+
+.nonce-background-cover {
+  background-image: url({{ site.cover | prepend: "/" }});
+}

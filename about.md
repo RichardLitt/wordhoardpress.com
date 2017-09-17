@@ -64,13 +64,13 @@ Correct. There's no real outlet for verse in the Germanic alliterative tradition
 
 ## Editors
 
-<img src="/assets/reviewers/patrick.jpg" style="max-width:200px;border-radius:50%;" title="Patrick Snyder" />
+<img src="/assets/reviewers/patrick.jpg" class="editor-image" title="Patrick Snyder" />
 
 **T. Patrick Snyder** has a BA in Linguistics from Temple University, and is a former archaeologist in the US. He runs the the EaldEnglisc pages on [Facebook](https://www.facebook.com/EaldEnglisc/), [Twitter](https://twitter.com/ealdenglisc) and [Instagram](https://www.instagram.com/ealdenglisc/).
 
 <br />
 
-<img src="/assets/reviewers/richard.jpg" style="max-width:200px;border-radius:50%;" title="Richard Littauer" />
+<img src="/assets/reviewers/richard.jpg" class="editor-image" title="Richard Littauer" />
 
 **Richard Littauer** has an MA (Hons) in Linguistics from Edinburgh University, and most of an MSc in Computational Linguistics from the University of Saarland. He runs this project and [many others](https://burntfen.com).
 
