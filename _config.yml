@@ -56,9 +56,9 @@ ga_tracking_id: "UA-4124866-33"
 # Social settings are used in two places:
 # * In the footer, as links to your personal profiles
 # * After each blog post for sharing widgets
-# 
+#
 # Example:
-# 
+#
 # social:
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
@@ -68,7 +68,7 @@ ga_tracking_id: "UA-4124866-33"
 #     share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to not allow sharing)
 #     share_title: ?text=                   # Title parameter for sharing URL
 #     share_link: "&amp;url="               # Link parameter for sharing URL
-#     
+#
 social:
   - name: Twitter
     icon: twitter
