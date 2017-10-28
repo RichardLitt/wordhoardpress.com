@@ -8,21 +8,32 @@ permalink: /about/
 
 Word Hoard Press is the only literary publisher dedicated towards publishing poetry written in Old English and other extinct Germanic languages by modern writers.
 
-Word Hoard Press currently publishes only one-off print copies; our main focus is on _Eala_, our journal for poetry and short stories.
+Our main focus is on _Eala_, our online journal for poetry and short stories. We are also interested in print copies of future work.
 
 <hr />
 
-## Masthead
+<h2 class="about-page-header">Masthead</h2>
+
+<img src="/assets/reviewers/richard.jpg" class="editor-image" title="Richard Littauer" />
 
 **Richard Littauer**, _Founding Editor, Editor-in-Chief_  
 [@RichLitt](https://twitter.com/richlitt)  
 [burntfen.com](http://burntfen.com)  
 
-Richard Littauer is Word Hoard Press's Founding Editor & Editor-in-Chief. He writes often, and has some creative work published in _[Code Poems](code-poems.com)_. He studied Old English at the University of Edinburgh, eventually graduating with an MA (Hons) in Linguistics. He studied for an MSc in Computational Linguistics  at Saarland University and the University of Malta, and will write his thesis one day. He is a web developer who enjoys reading in other languages in his dwindling spare time. He is probably most well known as the creator of the Na'vi dictionary for the Avatar fan community.
+Richard writes often, and has some creative work published in _[Code Poems](http://code-poems.com)_, among other places. He studied Old English at the University of Edinburgh, eventually graduating with an MA (Hons) in Linguistics. He studied for an MSc in Computational Linguistics at Saarland University and the University of Malta. He runs this project and [many others](https://burntfen.com).
+
+<br />
+
+<img src="/assets/reviewers/patrick.jpg" class="editor-image" title="Patrick Snyder" />
+
+**T. Patrick Snyder**, _Old English Editor_  
+[@ealdenglisc](https://twitter.com/ealdenglisc)  
+
+Patrick has a BA in Linguistics from Temple University, and is a former archaeologist in the US. He runs the the EaldEnglisc pages on [Facebook](https://www.facebook.com/EaldEnglisc/), [Twitter](https://twitter.com/ealdenglisc) and [Instagram](https://www.instagram.com/ealdenglisc/).
 
 <hr />
 
-## FAQ
+<h2 class="about-page-header">FAQ</h2>
 
 #### How will you know if the submissions are good?
 
@@ -62,28 +73,16 @@ Correct. There's no real outlet for verse in the Germanic alliterative tradition
 
 <hr />
 
-## Editors
+<h2 class="about-page-header">Get involved!</h2>
 
-<img src="/assets/reviewers/patrick.jpg" class="editor-image" title="Patrick Snyder" />
-
-**T. Patrick Snyder** has a BA in Linguistics from Temple University, and is a former archaeologist in the US. He runs the the EaldEnglisc pages on [Facebook](https://www.facebook.com/EaldEnglisc/), [Twitter](https://twitter.com/ealdenglisc) and [Instagram](https://www.instagram.com/ealdenglisc/).
-
-<br />
-
-<img src="/assets/reviewers/richard.jpg" class="editor-image" title="Richard Littauer" />
-
-**Richard Littauer** has an MA (Hons) in Linguistics from Edinburgh University, and most of an MSc in Computational Linguistics from the University of Saarland. He runs this project and [many others](https://burntfen.com).
-
-<hr />
-
-## Get involved!
-
-If you would like to be a reader or a language consultant for Word Hoard Press, please send an email to <a href="richard.littauer+wordhoardpress@gmail.com">Richard.</a> We are always looking for more readers, and especially consultants for obscure, extinct languages. Get in touch!
+If you would like to be a reader or a language consultant for Word Hoard Press, please send an email to <a href="richard+whp@burntfen.com">Richard.</a> We are always looking for more readers, and especially consultants for obscure, extinct languages. Get in touch!
 
 Word Hoard Press is a volunteer project. If you would like to support Word Hoard Press, please feel free to leave some money in <a href="https://plasso.co/s/dN3qHN8DIa">the tip jar</a> - it would be very appreciated.
 
+We're very excited to read your work. If you've got any questions, give us a shout via email or on Twitter at <a href='https://twitter.com/wordhoardpress'>@WordHoardPress</a>.
+
 <hr />
 
-### Credits
+<h2 class="about-page-header">Credits</h2>
 
 This website is hosted by [GitHub](https://github.com). The website theme is [centrarium](https://github.com/bencentra/centrarium), by [bencentra](http://bencentra.com). Any similarity in the name to WordPress.org are completely unintended. The longboat logo is by Ryan Beck from <a href='http://thenounproject.com'>The Noun Project</a>, and the background image of a misty forest is by [Jeremy Hiebert on Flickr](https://www.flickr.com/photos/jeremyhiebert/8139594990). 
