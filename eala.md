@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Eala
+title:  "Eala"
 permalink: /eala/
 ---
 
@@ -22,8 +22,7 @@ Long form prose is also accepted.
 
 Free verse or rhymed, Romance-influenced poetry will also be accepted based on their own individual merit, but are not especially encouraged.
 
-Poetry text limit: 500 lines.
-Prose text limit: 2000 words.
+Text limit: 500 lines, or 2000 words.
 
 ### Translations
 
@@ -33,7 +32,7 @@ Text limit: 5000 words.
 
 ## How to submit
 
-Email a copy of your text, along with a translation, to: <a href="mailto:richard.littauer+whpsubmissions@gmail.com">richard.littauer+whpsubmissions@gmail.com</a>.
+Email a copy of your text, along with a translation, to: <a href="mailto:richard.littauer+wordhoardpress@gmail.com">richard.littauer+wordhoardpress@gmail.com</a>.
 
 For a fee, you can also select the option of getting an expedited response within one week. Please add a comment about which submission was yours, and register your payment <a href="https://plasso.co/s/dN3qHN8DIa">here</a>. Thank you!
 
@@ -45,6 +44,10 @@ Simultaneous submissions are ok, but please let us know if your work is accepted
 
 If we accept your work, Word Hoard Press acquires First Serial Rights and Nonexclusive Archival Electronic Rights to showcase your work indefinitely. All rights revert to author at publication, but it would be great if you could credit us as the first publisher if your work ends up getting published elsewhere. More on rights <a href="http://www.pw.org/content/copyright">here</a>.
 
-#### Contact
+## Get involved!
+
+If you would like to be a reader or a language consultant for Word Hoard Press, please send an email to <a href="richard.littauer+wordhoardpress@gmail.com">Richard.</a> We are always looking for more readers, and especially consultants for obscure, extinct languages. Get in touch!
+
+Word Hoard Press is a volunteer project. If you would like to support Word Hoard Press, please feel free to leave some money in <a href="https://plasso.co/s/dN3qHN8DIa">the tip jar</a> - it would be very appreciated.
 
 We're very excited to read your work. If you've got any questions, give us a shout via email or on Twitter at <a href='https://twitter.com/wordhoardpress'>@WordHoardPress</a>.
