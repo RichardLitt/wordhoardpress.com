@@ -69,6 +69,11 @@ pre code.hljs {
   }
 }
 
+.nonce-background-cover {
+	background-size: cover;
+	background-position: 50% 50%;
+}
+
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
@@ -209,6 +214,12 @@ pre code.hljs {
 		@include outer-container;
 		// padding: 1em 0;
 		color: $medium-gray;
+		h1.title, .author {
+			color: $dark-gray;
+		}
+		.author {
+			font-weight: 800;
+		}
 		.post-date {
 			@include span-columns(6);
 			text-align: left;
@@ -261,10 +272,10 @@ pre code.hljs {
 			}
 		}
 		.post-meta {
-			padding-bottom: 1em;
+			padding-bottom: 3em;
 		}
 		.post-content {
-			padding: 1em 0;
+			padding: 3em 0;
 		}
 		.tags {
 			font-size: 0.9em;
@@ -407,4 +418,21 @@ pre code.hljs {
 			text-decoration: underline;
 		}
 	}
+}
+
+.post-filler {
+	min-height: 200px;
+}
+.author-bio {
+	padding: 3em 0 5em;
+}
+.about-page-header {
+	padding: 30px 0px 20px;
+}
+.centered {
+	text-align: center;
+}
+
+.old-english {
+	font-family: Times;
 }
