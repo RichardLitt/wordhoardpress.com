@@ -16,7 +16,27 @@ layout: default
 
   <p>Welcome! We are a new literary press publishing poetry written in Old English and other extinct Germanic languages by modern writers.</p>
 
-  <p>Our journal <i>Eala</i> is currently <b><a href="/eala/">open for submissions</a></b>.</p>
+	<br />
+	<br />
+
+	{% include page_divider.html %}
+
+	<h3>Recently Published Work</h1>
+
+	<article class="post-content">
+		<ul class="posts-list">
+			{% for post in site.posts %}
+			<li><a class="post-link" href="{{ post.url }}">{{ post.title }} ({{ post.categories }})</a> by {{ post.author }}<span class="post-date"> - {{ post.date | date: "%B %-d, %Y" }}</span></li>
+			{% endfor %}
+		</ul>
+	</article>
+
+	<br />
+
+	{% include page_divider.html %}
+
+	<br />
+	<p>Our online journal <i>Eala</i> is <b><a href="/eala/">open for submissions</a></b>.</p>
 
 </div>
 </div>
