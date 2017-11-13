@@ -20,7 +20,7 @@ Mīn mōd ys ælfremd.
 –––
 
 I have sailed over a sea  
-Where I a met angels and demons,  
+Where I met angels and demons,  
 Where I lived and died.  
 I didn’t know what I did,  
 Why do the men of the earth have  
