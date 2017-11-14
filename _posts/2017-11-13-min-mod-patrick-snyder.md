@@ -10,7 +10,7 @@ bio: 'Patrick has a BA in Linguistics from Temple University, and is a former ar
 Ic eom ofer mere sigld,  
 Hwǣr ic englas and dēoflu mett,  
 Hwǣr ic wunode and stearf.  
-Ic niste hwat ic fremmede,  
+Ic niste hwæt ic fremmede,  
 For hwī hafaþ ðā menn þǣre eorðan  
 Sāwolas yfeles and gōdes?  
 Ic, nān cūðe þæt ic nāht cnēow,  
