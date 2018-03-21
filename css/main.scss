@@ -20,3 +20,8 @@
 .nonce-background-cover {
   background-image: url({{ site.cover | prepend: "/" }});
 }
+
+.caesura {
+  display: inline-block;
+  width: 50px;
+}
