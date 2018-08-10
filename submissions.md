@@ -31,7 +31,7 @@ Text limit: 5000 words.
 
 ## How to submit
 
-Email a copy of your text, along with a translation, to: <a href="mailto:richard+whp@burntfen.com">richard+whp@burntfen.com</a>.
+Email a copy of your text, along with a translation, to: <a href="mailto:richard@wordhoardpress.com">richard@wordhoardpress.com</a>.
 
 For a fee, you can also select the option of getting an expedited response within one week. Please add a comment about which submission was yours, and register your payment <a href="https://plasso.co/s/dN3qHN8DIa">here</a>. Thank you!
 

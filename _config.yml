@@ -6,7 +6,7 @@ plugins:
 # Site settings
 title: "Word Hoard Press"
 subtitle: "A Literary Press for Ancient Poems by Modern Writers"
-email: "richard@burntfen.com"
+email: "richard@wordhoardpress.com"
 name:  "Richard Littauer"
 description: "A Literary Press for Ancient Poems by Modern Writers"
 baseurl: "/" # the subpath of your site, e.g. /blog/
