@@ -4,8 +4,10 @@
 
     <h3 class="footer-heading">{{ site.title }}</h3>
 
+    <p class="text"><i>{{ site.description }}</i></p>
+
     <div class="site-navigation">
-    	
+
     	<p><strong>Site Map</strong></p>
       <ul class="pages">
         {% for page in site.pages %}
@@ -18,7 +20,7 @@
 
     <div class="site-contact">
 
-    	<p><strong>Contact</strong>
+    	<p><strong>Contact</strong></p>
       <ul class="social-media-list">
       	<li>
       		<a href="mailto:{{ site.email }}">
@@ -41,9 +43,10 @@
       </ul>
     </div>
 
+    <p><strong>Subscriptions</strong></p>
     <div class="site-signature">
-    	<p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+      <p class="text"><a href="http://eepurl.com/dGv4wP">Subscribe to the newsletter</a></p>
+    	<p class="rss-subscribe text">Subscribe <a href="{{ "/feed.xml" }}">via RSS</a></p>
     </div>
 
   </div>
