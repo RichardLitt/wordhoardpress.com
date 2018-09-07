@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spræc Min"
-author: "Patrick Snyder"
+author: "T. Patrick Snyder"
 permalink: /snyder-spræc
 categories: ["Old English"]
 bio: 'Patrick has a BA in Linguistics from Temple University, and is a former archaeologist in the US. You can find him on Twitter at <a href="https://twitter.com/tpatricksnyder">@tpatricksnyder</a>. He is the author of <i>Everyday Old English: A Modern Anglo-Saxon Phrasebook</i>, <a href="https://www.amazon.com/Everyday-Old-English-Anglo-Saxon-Phrasebook/dp/1977818153/ref=cm_sw_em_r_dp_v_dz_v0AcAbP60XD00_tt">available on Amazon</a>.'
