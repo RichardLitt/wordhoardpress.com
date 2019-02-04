@@ -33,8 +33,6 @@ Text limit: 5000 words.
 
 Email a copy of your text, along with a translation, to: <a href="mailto:richard@wordhoardpress.com">richard@wordhoardpress.com</a>.
 
-For a fee, you can also select the option of getting an expedited response within one week. Please add a comment about which submission was yours, and register your payment <a href="https://plasso.co/s/dN3qHN8DIa">here</a>. Thank you!
-
 #### Simultaneous Submissions
 
 Simultaneous submissions are ok, but please let us know if your work is accepted elsewhere. We do not accept previously published material. If you have already submitted for an issue, please wait until the following issue's reading period before submitting again. We can't pay at this time, except with a promise to promote your work.
